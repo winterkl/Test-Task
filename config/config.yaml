@@ -1,0 +1,7 @@
+postgres:
+  host: localhost
+  port: 7000
+  user: KIRILL
+  password: TEST_TASK
+  db_name: postgres
+  ssl_mode: disable
